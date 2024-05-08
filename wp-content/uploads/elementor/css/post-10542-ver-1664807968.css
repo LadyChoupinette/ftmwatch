@@ -1,0 +1,127 @@
+.elementor-10542 .elementor-element.elementor-element-f81d061{--spacer-size:50px;}.elementor-10542 .elementor-element.elementor-element-39cd903 .elementor-heading-title{font-family:"Public Sans", Sans-serif;font-size:50px;font-weight:600;}.elementor-10542 .elementor-element.elementor-element-8f3a6ba .elementor-heading-title{font-family:"Public Sans", Sans-serif;font-size:27px;font-weight:300;}.elementor-10542 .elementor-element.elementor-element-20e18fb{--grid-template-columns:repeat(0, auto);--grid-column-gap:5px;--grid-row-gap:0px;}.elementor-10542 .elementor-element.elementor-element-20e18fb .elementor-widget-container{text-align:left;}.elementor-10542 .elementor-element.elementor-element-5f3cf43{--divider-border-style:solid;--divider-color:#FFFFFF;--divider-border-width:2px;}.elementor-10542 .elementor-element.elementor-element-5f3cf43 .elementor-divider-separator{width:100%;}.elementor-10542 .elementor-element.elementor-element-5f3cf43 .elementor-divider{padding-top:15px;padding-bottom:15px;}.elementor-10542 .elementor-element.elementor-element-ee26e73 > .elementor-widget-container{margin:-2% 0% 0% 0%;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ThinItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ExtraLightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-BlackItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Black.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

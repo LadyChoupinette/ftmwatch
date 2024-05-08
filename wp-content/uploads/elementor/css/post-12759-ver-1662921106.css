@@ -1,0 +1,135 @@
+.elementor-12759 .elementor-element.elementor-element-54c7674:not(.elementor-motion-effects-element-type-background), .elementor-12759 .elementor-element.elementor-element-54c7674 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2022/09/ikari.jpg");background-repeat:no-repeat;background-size:auto;}.elementor-12759 .elementor-element.elementor-element-54c7674 > .elementor-background-overlay{background-color:#000000;opacity:0.82;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-12759 .elementor-element.elementor-element-54c7674{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-12759 .elementor-element.elementor-element-3b5e7d7{--spacer-size:50px;}.elementor-12759 .elementor-element.elementor-element-3ada319 img{width:100%;}.elementor-12759 .elementor-element.elementor-element-927599e .elementor-repeater-item-637a269.elementor-social-icon{background-color:#7289DA;}.elementor-12759 .elementor-element.elementor-element-927599e{--grid-template-columns:repeat(0, auto);--grid-column-gap:5px;--grid-row-gap:0px;}.elementor-12759 .elementor-element.elementor-element-927599e .elementor-widget-container{text-align:center;}.elementor-12759 .elementor-element.elementor-element-b899827 .elementor-button .elementor-align-icon-right{margin-left:19px;}.elementor-12759 .elementor-element.elementor-element-b899827 .elementor-button .elementor-align-icon-left{margin-right:19px;}.elementor-12759 .elementor-element.elementor-element-b899827 .elementor-button{font-family:"Public Sans", Sans-serif;font-size:20px;font-weight:500;text-shadow:0px 0px 10px rgba(0, 0, 0, 0.47);fill:#FFFFFF;color:#FFFFFF;background-color:#FFFFFF6B;border-radius:7px 7px 7px 7px;box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.68);padding:3% 28% 3% 28%;}.elementor-12759 .elementor-element.elementor-element-b899827 .elementor-button:hover, .elementor-12759 .elementor-element.elementor-element-b899827 .elementor-button:focus{background-color:#5BA9FF;}.elementor-12759 .elementor-element.elementor-element-b899827 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-12759 .elementor-element.elementor-element-451eb7a .elementor-heading-title{font-family:"Inter", Sans-serif;font-weight:600;}.elementor-12759 .elementor-element.elementor-element-7f7be30 .elementor-heading-title{font-family:"Inter", Sans-serif;font-weight:600;}.elementor-12759 .elementor-element.elementor-element-451a38f .elementor-heading-title{font-family:"Inter", Sans-serif;font-weight:600;}.elementor-12759 .elementor-element.elementor-element-30c0ee1 .elementor-heading-title{font-family:"Inter", Sans-serif;font-weight:600;}.elementor-12759 .elementor-element.elementor-element-15a72ac .elementor-heading-title{font-family:"Inter", Sans-serif;font-weight:600;}.elementor-12759 .elementor-element.elementor-element-7949d77{--spacer-size:20px;}.elementor-12759 .elementor-element.elementor-element-60bb607 .elementor-heading-title{font-family:"Public Sans", Sans-serif;font-weight:300;}.elementor-12759 .elementor-element.elementor-element-4a5e7fd{--spacer-size:50px;}.elementor-12759 .elementor-element.elementor-element-d14a53d .elementor-tab-title{border-width:5px;}.elementor-12759 .elementor-element.elementor-element-d14a53d .elementor-tab-content{border-width:5px;}.elementor-12759 .elementor-element.elementor-element-d14a53d .elementor-toggle-item:not(:last-child){margin-bottom:0px;}@media(max-width:767px){.elementor-12759 .elementor-element.elementor-element-b899827 .elementor-button{font-size:20px;padding:-1% -1% -1% -1%;}}@media(min-width:1025px){.elementor-12759 .elementor-element.elementor-element-54c7674:not(.elementor-motion-effects-element-type-background), .elementor-12759 .elementor-element.elementor-element-54c7674 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:fixed;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ThinItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ExtraLightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-BlackItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Public Sans';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/05/PublicSans-Black.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2022/04/Inter-VariableFont_slntwght.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
